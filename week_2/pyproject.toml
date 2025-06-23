@@ -2,7 +2,6 @@
 name = "week-2"
 version = "0.1.0"
 description = "Add your description here"
-readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "hyperopt>=0.2.7",
